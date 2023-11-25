@@ -1,4 +1,6 @@
-![FlexMotion logo](https://flexmotion.moartis.dev/img/logo.png)
+#FlexMotion
+
+![FlexMotion logo](https://flexmotion.moartis.dev/img/flexmotion-logo-256.png)
 
 Welcome to the issue repository for FlexMotion, an play-on-demand animation system for Unity.
 
