@@ -18,5 +18,5 @@ If you want to know more about this tool, check out the website: [FlexMotion.moa
 
 ## Where to buy FlexMotion
 
-If you want to purchase the tool, it's available on [Itch.io]() or the [Unity asset store]().
+If you want to purchase the tool, it's available on [Itch.io](https://moartis.itch.io/flexmotion) or the [Unity asset store]().
 
